@@ -1,1 +1,1 @@
-
+Class project for CSC252 (Computer Organization). This project as a whole simulates the inner workings of the CPU by defining functions that simulate the ALU, Jump, Branch, Memory and instruction fetching/ decoding. This class project was used to help us better understand the inner workings of the Computer.
