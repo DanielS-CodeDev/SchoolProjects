@@ -1,0 +1,6 @@
+SR, A, Room cost: 4, Hallway cost: 1
+A, B, Room cost: 3, Hallway cost: 2
+B, D, Room cost: 1, Hallway cost: 1
+A, C, Room cost: 2, Hallway cost: 4
+C, E, Room cost: 2, Hallway cost: 3
+E, BL, Room cost: 0, Hallway cost: 5
